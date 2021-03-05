@@ -1,7 +1,7 @@
 This is a blockchain project based Hyperledger Fabric and its official documentation. This particular segment extends the functionality of the official Test Network by dividing the development into
 three parts:
 
-1. Golang C (business logic)
+1. Golang Chaincode (business logic)
 2. Shell Script to interact with the chaincode
 3. PHP script as the Web-interface to transport shell commands to the terminal
 
