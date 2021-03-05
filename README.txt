@@ -1,4 +1,4 @@
-This is a blockchain project based Hyperledger Fabric and its official documentation. This particular segment extends the functionality of the official Test Network by dividing the development into
+This is a blockchain project based on Hyperledger Fabric and its official documentation. This particular segment extends the functionality of the official Test Network by dividing the development into
 three parts:
 
 1. Golang Chaincode (business logic)
